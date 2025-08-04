@@ -1,4 +1,4 @@
-# 👨‍💻  macOS User 🍎
+# 👨‍💻  macOS User 🍎 🇨🇴🇵🇪
 
 > *They say you can’t teach backend while flexing on Tailwind design.  
 > But we both know that’s cap.*  
