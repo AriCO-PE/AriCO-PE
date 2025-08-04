@@ -5,39 +5,17 @@
 > Whether it’s **Django** or **fasted cardio**, I do both with discipline.  
 > Welcome to the intersection of **code**, **caffeine**, and **consciousness**. 😉
 
----
-
-## 👋 About Me
-
 - 🔭 Currently building **After_Life** 🧑‍🏫 (my own programming academy), **MaXGrind** 💪 (a discipline system for body & mind), and a few other secret side quests.  
 - 💻 I work daily from **macOS**, but I’m terminal-native at heart.  
 - 👨‍🏫 Instructor in **Backend Development** & **CS Fundamentals** — I teach like I train: hard, clear, and with purpose.  
 - 🌐 Web developer focused on **Django**, **FastAPI**, and real-world impact.  
 - 🌱 Currently learning **Swift**, **JavaScript**, **Python**, **Java**, and **Russian 🇷🇺**  
 - 🗣 Languages: English, Spanish and Russian.
-
----
-
-## 🎓 Academic Journey
-
 - 🎓 Studied **Software Engineering** for 3 years in **Peru 🇵🇪** — left to pursue international opportunities.  
 - 🎓 Currently a **scholarship student** at **Bauman Moscow State Technical University (МГТУ им. Баумана)**  
 - 🎯 Planning to apply soon to **Moscow State University (МГУ)** for **Software Engineering**
-
----
-
-## 📫 Contact
-
 - Discord: [`ari_160189`](https://discord.com/users/ari_160189)  
 - Pronouns: `/he/him/программист/`
-
----
-
-## ⚡ Fun Fact
-
-> My keyboard has more miles than my car.
-
----
 
 ## 🧭 My Principles and Values
 
