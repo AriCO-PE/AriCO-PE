@@ -21,3 +21,5 @@
 
 **Honesty**, **Loyalty**, **Ethics**, **Initiative**, and **Productivity** —  
 > **With that, I don’t negotiate.**
+>
+> <span style="color: orange;">Este texto es naranja</span>
