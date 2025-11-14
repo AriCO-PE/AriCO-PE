@@ -10,7 +10,7 @@
 - 🌐 Web developer focused on **Django**, **FastAPI**, and real-world impact.  
 - 🌱 Currently learning **Swift**, **JavaScript**, **Python**, **Java**, and **Russian 🇷🇺**  
 - 🗣 Languages: English, Spanish and Russian.
-- 🎓 Studied **Software Engineering** for 3 years in **Peru 🇵🇪** — left to pursue international opportunities.  
+- 🎓 Studied **Software Engineering** for 4 years in **Peru 🇵🇪** 
 - 🎓 Currently a **scholarship student** at **Bauman Moscow State Technical University (МГТУ им. Баумана)**  
 - 🎯 Planning to apply soon to **Moscow State University (МГУ)** for **Software Engineering**
 - Discord: [`ari_160189`](https://discord.com/users/ari_160189)  
