@@ -1,23 +1,54 @@
-# 👨‍💻  macOS User 🍎 🇨🇴🇵🇪
+# 👋 Hola, soy [Tu Nombre] | Python Backend Developer
 
-> *They say you can’t teach backend while flexing on Tailwind design.  
-> But we both know that’s cap.*  
-> Whether it’s **Django** or **fasted cardio**, I do both with discipline.  
-> Welcome to the intersection of **code**, **caffeine**, and **consciousness**. 😉
+**Desarrollador Backend enfocado en Python | Construyendo APIs robustas y escalables con Django & FastAPI**
 
-- 🔭 Software Engineer (ZENTPIPER)
-- 👨‍🏫 Instructor in **Backend Development** & **CS Fundamentals** — I teach like I train: hard, clear, and with purpose.  
-- 🌐 Web developer focused on **Django**, **FastAPI**, and real-world impact.  
-- 🌱 Currently learning **Swift**, **JavaScript**, **Python**, **Java**, and **Russian 🇷🇺**  
-- 🗣 Languages: English, Spanish, Japanese, Portugues and Russian(learning).
-- 🎓 Studied **Software Engineering** for 4 years in **Peru 🇵🇪** 
-- 🎓 Currently a **scholarship student** at **Bauman Moscow State Technical University (МГТУ им. Баумана)**  
-- 🎯 Planning to apply soon to **Moscow State University (МГУ)** for **Software Engineering**
-- Discord: [`ari_160189`](https://discord.com/users/ari_160189)  
-- Pronouns: `/he/him/программист/`
+---
 
-## 🧭 My Principles and Values
+### 🚀 Sobre Mí
 
-**Honesty**, **Loyalty**, **Ethics**, **Initiative**, and **Productivity** —  
-> **With that, I don’t negotiate.**
+*   🎯 **Objetivo:** Buscando mi primera oportunidad como **Junior Python Backend Developer**.
+*   💡 Apa
 
+
+---
+
+### 🛠 Stack Tecnológico
+
+**Lenguajes & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Bases de Datos:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Herramientas & DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 💼 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack |
+|----------|-------------|------------|
+| **[🔗 Nombre del Proyecto API](link-al-repo)** | Una API REST completa para [breve descripción, ej: un sistema de gestión de tareas] con autenticación JWT, documentación interactiva y tests. | FastAPI, PostgreSQL, Pytest, Docker |
+| **[🔗 Nombre del Proyecto Django](link-al-repo)** | Una aplicación web con panel de administración, modelos relacionales y API integrada para [breve descripción]. | Django, DRF, SQLite, Bootstrap |
+| **[🔗 Otro Proyecto](link-al-repo)** | [Breve descripción de lo que resuelve]. | Python, [Otras tecnologías] |
+
+---
+
+### 📈 Mi Actividad en GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_title=true)](https://github.com/TU_USERNAME)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide=html,css)](https://github.com/TU_USERNAME)
+
+---
+
+### 📫 ¿Cómo contactarme?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
