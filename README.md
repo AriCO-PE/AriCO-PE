@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] | Python Backend Developer
+# 👋 Hi, I'm Arian Liendro | Python Backend Developer
 
 **Backend Developer focused on Python | Building robust and scalable APIs with Django & FastAPI**
 
