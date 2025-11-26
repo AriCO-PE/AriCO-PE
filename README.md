@@ -39,16 +39,5 @@
 | **[🔗 Nombre del Proyecto Django](link-al-repo)** | Una aplicación web con panel de administración, modelos relacionales y API integrada para [breve descripción]. | Django, DRF, SQLite, Bootstrap |
 | **[🔗 Otro Proyecto](link-al-repo)** | [Breve descripción de lo que resuelve]. | Python, [Otras tecnologías] |
 
----
 
-### 📈 Mi Actividad en GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_title=true)](https://github.com/TU_USERNAME)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide=html,css)](https://github.com/TU_USERNAME)
-
----
-
-### 📫 ¿Cómo contactarme?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
