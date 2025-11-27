@@ -36,8 +36,8 @@
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| **[🔗 Project API REST](https://github.com/AriCO-PE/TASK---MANAGER---API)** | A complete REST API for [brief description, e.g., a task management system] featuring JWT authentication, interactive documentation, and comprehensive testing. | FastAPI, PostgreSQL, Pytest, Docker |
-| **[🔗 Django Project Name](https://github.com/AriCO-PE/Fullstack-Project)** | A web application with an admin panel, relational models, and an integrated API for [brief description]. | Django, DRF, SQLite, Bootstrap |
+| **[🔗 TASKS - MANAGER - API](https://github.com/AriCO-PE/TASK---MANAGER---API)** | A complete REST API for [brief description, e.g., a task management system] featuring JWT authentication, interactive documentation, and comprehensive testing. | FastAPI, PostgreSQL, Pytest, Docker |
+| **[🔗 Cegrisa ](https://github.com/AriCO-PE/Fullstack-Project)** | A web application with an admin panel, relational models, and an integrated API for [brief description]. | Django, DRF, SQLite, Bootstrap, React |
 | **[🔗 Another Project](link-to-repo)** | [Brief description of what it solves]. | Python, [Other Tech] |
 
 ---
