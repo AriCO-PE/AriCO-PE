@@ -38,7 +38,7 @@
 |----------|-------------|------------|
 | **[🔗 TASKS - MANAGER - API](https://github.com/AriCO-PE/TASK---MANAGER---API)** | A complete REST API for [brief description, e.g., a task management system] featuring JWT authentication, interactive documentation, and comprehensive testing. | FastAPI, PostgreSQL, Pytest, Docker |
 | **[🔗 Cegrisa ](https://github.com/AriCO-PE/Fullstack-Project)** | A web application with an admin panel, relational models, and an integrated API for [brief description]. | Django, DRF, SQLite, Bootstrap, React |
-| **[🔗 Another Project](link-to-repo)** | [Brief description of what it solves]. | Python, [Other Tech] |
+| **[🔗 Znowi Bot](https://github.com/AriCO-PE/Znowi-Bot-Traiding-Simulation)** | [Advanced Telegram bot for real-time market analysis and automated trading simulation using technical indicators and risk management]. | Python |
 
 ---
 
