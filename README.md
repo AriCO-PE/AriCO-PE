@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-*   🎯 **Goal:**  **Junior Python Backend ai Developer**.
+*   🎯 **Goal:**  **Senior Python Backend ai Developer**.
 *   💡 Passionate about software architecture, REST APIs, and databases.
 *   🧠 Disciplined and proactive, applying principles of productivity and ethics to both coding and continuous learning.
 *   🌍 **Languages:** Spanish (Native), English (Fluent), Russian (Learning).
