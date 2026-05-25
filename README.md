@@ -14,7 +14,7 @@ Hi, I'm Arian Liendro!
 <hr>
 
 ```
-Arian@github
+AriCO-PE
 -------------------------
 💻 Backend Engineer focused on scalable systems and APIs
 ⚙️ Specialized in Python backend development (FastAPI, Django)
