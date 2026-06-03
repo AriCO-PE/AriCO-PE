@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Arian Liendro!
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 *   **Backend Development:** Python (FastAPI, Django)
 *   **Databases & Data:** SQL/NoSQL, Data Handling & Optimization
