@@ -3,7 +3,8 @@ Hi, I'm Arian Liendro!
 
 ##  Tech Stack & Skills
 
-*   **Backend Development:** Python (FastAPI, Django)
+*   **Backend Development:** Python, JS , GO (FastAPI, Django, Node.JS)
+*   **Frontend Development:** Js, React , Angular 
 *   **Databases & Data:** SQL/NoSQL, Data Handling & Optimization
 *   **DevOps & Observability:** System Monitoring, Data Analysis
 *   **Architectures:** Scalable Systems, RESTful APIs
