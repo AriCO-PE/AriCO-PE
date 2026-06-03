@@ -1,15 +1,12 @@
 <h1 align="center">
 Hi, I'm Arian Liendro!
 
-AriCO-PE
--------------------------
-💻 Backend Engineer focused on scalable systems and APIs
-⚙️ Specialized in Python backend development (FastAPI, Django)
-🗄️ Strong experience with databases and data handling
-🔍 Background in data analysis and system monitoring
-🚀 Interested in building high-performance backend architectures
-🌎 Languages: Spanish, English, Russian
-```
+## 🛠️ Tech Stack & Skills
+
+*   **Backend Development:** Python (FastAPI, Django)
+*   **Databases & Data:** SQL/NoSQL, Data Handling & Optimization
+*   **DevOps & Observability:** System Monitoring, Data Analysis
+*   **Architectures:** Scalable Systems, RESTful APIs
 <hr>
 
 
