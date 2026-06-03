@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Arian Liendro!
-  <img src="https://i.pinimg.com/736x/b1/43/2f/b1432fe4ab19002793e741541b2376d5.jpg<img width="563" height="697" alt="image" src="https://github.com/user-attachments/assets/cfabfe97-66a6-4fae-ac03-3f0ebf6aa744" />
+  <img src="https://i.pinimg.com/736x/b1/43/2f/b1432fe4ab19002793e741541b2376d5.jpg" <img width="563" height="697" alt="image" src="https://github.com/user-attachments/assets/cfabfe97-66a6-4fae-ac03-3f0ebf6aa744" />
 " width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
